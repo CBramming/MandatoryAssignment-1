@@ -1,0 +1,12 @@
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\bin\Debug\net6.0\Football.deps.json
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\bin\Debug\net6.0\Football.dll
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\bin\Debug\net6.0\Football.pdb
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.dll
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\refint\Football.dll
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\Football.pdb
+C:\Users\caspe\OneDrive\Skrivebord\Football\Football\obj\Debug\net6.0\ref\Football.dll
